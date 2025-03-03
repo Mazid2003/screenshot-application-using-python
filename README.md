@@ -54,6 +54,8 @@ screenshots is a floder where all the screenshots will be stored
 
 screenshot.py is the pythonscript 
 
+screenshot.ico is the main icon of the image > where you can find most of the icons in 'icons8' website it downloads in the '.png' format then you need to convert it into '.ico' format
+
 **📊 Future Enhancements**
 
 ✅ Add a GUI with buttons for manual screenshot capture.
