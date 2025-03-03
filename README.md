@@ -1,4 +1,4 @@
-# 📸 Automated Screenshot Capture App
+# 📸 Screenshot Capture Application using python
 
 **✨ Project Overview**
 
