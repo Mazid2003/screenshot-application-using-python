@@ -1,1 +1,44 @@
+🛠 Requirements for the Screenshot Capture Project
+To successfully run and use this project, you need the following:
+
+✅ 1. Software Requirements
+Python 3.x (Recommended: Python 3.8+)
+OS Support: Windows, macOS, or Linux
+
+✅ 2. Python Package Dependencies
+You need to install the following Python libraries:
+
+pip install pyautogui
+
+These libraries are built into Python, so no installation is needed:
+
+tkinter (For GUI flash effect)
+os (For file handling)
+time (For timestamping screenshots)
+
+✅ 3. Hardware Requirements
+
+A computer or laptop with a working display (as screenshots depend on the screen).
+No additional hardware is required.
+
+✅ 4. Optional Enhancements (For Future Features)
+
+Keyboard Shortcut Support: Requires keyboard library. Install with:
+
+pip install keyboard
+
+Region-Specific Screenshots: Can be achieved with OpenCV (cv2) or PIL (pillow). Install with:
+
+pip install opencv-python pillow
+
+
+pyinstaller is a package used to convert the python files inyo executable files
+
+pip install pyinstaller
+
+then command for making your screenshot application is
+
+cd <your project directory> 
+
+pyinstaller --onefile --windowed --icon=<your application icon.ico>(application icon or image must be in .ico format) screenshot.py(python file name)
 
