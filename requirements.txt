@@ -32,7 +32,7 @@ Region-Specific Screenshots: Can be achieved with OpenCV (cv2) or PIL (pillow). 
 pip install opencv-python pillow
 
 
-pyinstaller is a package used to convert the python files inyo executable files
+pyinstaller is a package used to convert the python files into executable files
 
 pip install pyinstaller
 
@@ -41,4 +41,12 @@ then command for making your screenshot application is
 cd <your project directory> 
 
 pyinstaller --onefile --windowed --icon=<your application icon.ico>(application icon or image must be in .ico format) screenshot.py(python file name)
+
+when you run this command 2 files will be formed 
+
+1. dist_(folder)
+
+2.build_(folder)
+
+dist folder is the application file you can add to task bar so that you can take screenshot at any point of time.
 
