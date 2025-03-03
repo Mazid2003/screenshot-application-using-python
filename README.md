@@ -52,6 +52,8 @@ The captured screenshot will be stored in the screenshots folder inside your pro
 
 screenshots is a floder where all the screenshots will be stored
 
+screenshot.py is the pythonscript 
+
 **📊 Future Enhancements**
 
 ✅ Add a GUI with buttons for manual screenshot capture.
