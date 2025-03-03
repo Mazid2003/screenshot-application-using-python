@@ -42,7 +42,7 @@ Ensure Python is installed, then install the required package:
 
 pip install pyautogui
 
-⭐ 2. Run the Script
+**⭐ 2. Run the Script**
 
 Execute the Python script to take a screenshot:
 
