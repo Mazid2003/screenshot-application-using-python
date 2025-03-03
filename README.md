@@ -64,6 +64,45 @@ screenshot.ico is the main icon of the image > where you can find most of the ic
 
 ✅ Enable region-specific screenshots instead of full-screen capture.
 
+**🚀 How to Clone & Run Your Project**
+
+Once you upload your project to GitHub, others can clone and run it easily. Here’s how:
+
+**1️⃣ Clone the Repository**
+
+Anyone can clone your project using Git by running:
+
+git clone https://github.com/Mazid2003/screenshot-application-using-python.git
+
+Or, they can download the ZIP file from GitHub and extract it manually.
+
+**2️⃣ Navigate to the Project Directory**
+
+After cloning, navigate into the project folder:
+
+cd YourRepositoryName
+
+**3️⃣ Install Dependencies**
+
+Ensure Python is installed, then install the required package:
+
+pip install pyautogui
+
+**4️⃣ Run the Screenshot Script**
+
+After setup, they can execute the script:
+
+python screenshot.py
+
+The screenshot will be stored in the screenshots folder inside the project directory.
+
+**📌 Updating the Project**
+
+If you make updates, others can pull the latest changes using:
+
+git pull origin main
+
+
 **📚 License**
 
 This project is open-source and available under the MIT License.
