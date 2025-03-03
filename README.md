@@ -50,6 +50,8 @@ python screenshot.py
 
 The captured screenshot will be stored in the screenshots folder inside your project directory.
 
+screenshots is a floder where all the screenshots will be stored
+
 **📊 Future Enhancements**
 
 ✅ Add a GUI with buttons for manual screenshot capture.
