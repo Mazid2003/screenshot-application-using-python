@@ -36,7 +36,7 @@ OS & Time Modules – Manages file system operations and timestamps.
 
 **🚀 Installation & Usage**
 
-⭐ 1. Install Required Dependencies
+**⭐ 1. Install Required Dependencies**
 
 Ensure Python is installed, then install the required package:
 
