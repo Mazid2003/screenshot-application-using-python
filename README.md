@@ -102,6 +102,9 @@ If you make updates, others can pull the latest changes using:
 
 git pull origin main
 
+**💬 Want to Collaborate?**
+
+Feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
 
 **📚 License**
 
